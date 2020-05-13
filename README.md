@@ -1,11 +1,11 @@
-# _Leetspeak Translator_
+# _Rock, Paper, Scissors_
 
 #### _This is an exercise of using Behavior Driven Development and automated testing. 5/13/2020_
 
-### Made by Nitun Datta 
+### Made by Nitun Datta  and Mai Cook
 ## Description
 
-_This is a console app where user inputs a word and it is then translated into Leetspeak._
+_This is a console game where two players input rock, paper, or scissors. Then the program determines who the winner is depending on which they choose._
 
 
 ## Setup/Installation Requirements
@@ -20,13 +20,13 @@ _This is a console app where user inputs a word and it is then translated into L
 
 ## Specs
 
-### Behavior Driven Development Spec List
-1. Create a instance of Item. 
-2. Add Decription property that have only get method, no set method. 
-3. Add set method to the Decription property.
-4. Add a static variable that can hold all item objects.
-5. Return a empty item list.
-8. Return item list.
+1. Create the instance of player. 
+2. player1 and palayer2 become constructors
+3. then add Decription property for a get method. 
+<!--  Add set method to the Decription property. -->
+<!--  Add a static variable that can hold all item objects. -->
+4. Return output of either player1 wins or player2.
+
 
 ---
 ## Known Bugs
@@ -53,4 +53,4 @@ _Email: nitundatta8@gmail.com_
 
 This project is licensed under the MIT License
 
-Copyright (c) 2020 **_Nitun Datta & Mikah Mathews_**
+Copyright (c) 2020 **_Nitun Datta & Mai Cook_**
